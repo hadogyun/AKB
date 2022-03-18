@@ -3,6 +3,11 @@
 
 #include <iostream>
 
+void TestCommit()
+{
+    std::cout << "우리팀 화이팅\n" << std::endl;
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
